@@ -1,240 +1,49 @@
-# 👋 Hi, I'm Muhammad Ajmal Noor
-
-### 🚀 Junior AI Engineer | NLP | LLMs | RAG | Computer Vision | PyTorch | Python
-
-I’m a Junior AI Engineer focused on building practical AI and machine learning systems using Python, PyTorch, TensorFlow, Hugging Face, and modern AI/ML techniques.
-
-I have 2+ years of professional experience in AI data annotation and model evaluation, working with computer vision, OCR, image and video annotation, dataset validation, and AI model outputs.
-
-Alongside my professional AI data experience, I build hands-on AI engineering projects across **Machine Learning, Deep Learning, NLP, LLMs, RAG, and Computer Vision**.
-
----
-
-## 🧠 About Me
-
-- 🤖 Junior AI Engineer focused on practical AI/ML development
-- 🧠 Experience with Machine Learning and Deep Learning
-- 📝 Building NLP and LLM applications with Hugging Face
-- 🔎 Developing Retrieval-Augmented Generation (RAG) systems
-- 👁️ Working with Computer Vision and transfer learning
-- 📊 2+ years of professional AI data annotation and model evaluation experience
-- 🐍 Python-focused AI development
-- 🌍 Open to remote AI/ML opportunities
-
----
-
-## ⚙️ Technical Skills
-
-### 💻 Programming
-- Python
-- SQL
-- Git & GitHub
-
-### 🤖 AI & Machine Learning
-- Machine Learning
-- Deep Learning
-- Regression
-- Classification
-- Clustering
-- Model Evaluation
-- Scikit-learn
-
-### 🧠 NLP & LLMs
-- Natural Language Processing
-- Large Language Models (LLMs)
-- Hugging Face Transformers
-- BERT / DistilBERT
-- DistilGPT2
-- Sentence Transformers
-- Text Generation
-- Prompt Engineering
-
-### 🔎 RAG & Generative AI
-- Retrieval-Augmented Generation (RAG)
-- FAISS
-- Vector Search
-- Semantic Search
-- Hybrid Retrieval
-- Query Routing
-- Metadata Filtering
-- Grounded Response Generation
-
-### 👁️ Computer Vision
-- CNN
-- ResNet
-- Vision Transformers (ViT)
-- Transfer Learning
-- Image Classification
-- Object Detection
-- Image & Video Annotation
+# Muhammad Ajmal Noor
 
-### 🛠️ Frameworks & Libraries
-- PyTorch
-- TensorFlow
-- Keras
-- Hugging Face
-- FAISS
-- Streamlit
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
+**Junior AI Engineer candidate · Python · NLP & RAG · Computer Vision**
 
-### 🏷️ AI Data & Evaluation
-- Computer Vision Annotation
-- Image & Video Annotation
-- OCR Validation
-- AI Model Evaluation
-- Dataset Validation
-- CVAT
-- Roboflow
-- VGG Image Annotator (VIA)
-- Label Studio
+I build practical machine learning applications and bring 2+ years of professional experience in AI data annotation, OCR validation, and model-output evaluation. My portfolio covers retrieval-augmented generation, transformer-based NLP, image classification, detection, and segmentation.
 
----
+**Based in Lahore, Pakistan · Open to onsite Junior/Associate AI Engineer roles in Lahore and remote roles accepting applicants from Pakistan.**
 
-# 📂 Featured AI Projects
+[LinkedIn](https://www.linkedin.com/in/m-ajmal-noor/) · [Email](mailto:ajmalnoor3355@gmail.com) · [All projects](PORTFOLIO.md)
 
-## 🔎 Product RAG Assistant
+## Selected projects
 
-**End-to-end Retrieval-Augmented Generation system for product search and question answering.**
+| Project | What to inspect | Stack |
+|---|---|---|
+| [Product RAG Assistant](https://github.com/ajmal335/Product_RAG_Assistant) | Exact + semantic retrieval, source records, FastAPI endpoint, 22 offline tests | Sentence Transformers, FAISS, FLAN-T5, FastAPI |
+| [IMDb Sentiment Analysis](https://github.com/ajmal335/NLP_Sentiment_Analysis) | DistilBERT fine-tuning; recorded **87.73% accuracy** on 25,000 test reviews | PyTorch, Hugging Face, Streamlit |
+| [YOLO Helmet Detection](https://github.com/ajmal335/YOLO_Helmet_Detection) | Two-class detection; recorded **79.82% mAP@50**, **43.69% mAP@50–95** | YOLO11n, PyTorch, OpenCV |
+| [U-Net Segmentation](https://github.com/ajmal335/U-Net_Segmentation) | Pixel-level pet segmentation; recorded **0.6366 test Dice** | PyTorch, U-Net |
+| [Image Classification](https://github.com/ajmal335/Professional_Image_Classification) | ResNet18 transfer learning, evaluation plots, prediction examples | PyTorch, Torchvision |
+| [Document & Annotation Quality Toolkit](https://github.com/ajmal335/data-annotation-and-dataset-quality-work) | Invoice-text and YOLO-label validators, REST/CLI interfaces, 31 tests | Python, FastAPI, Pytest |
 
-**Technologies:**
-Sentence Transformers · FAISS · FLAN-T5 · Hugging Face · Streamlit
+Model metrics above come from committed project results, not a new independent benchmark. The quality toolkit is deterministic validation tooling, not a trained AI model. Docker configurations are included for the RAG and quality APIs; public deployment is a next step.
 
-**Key features:**
-- Hybrid retrieval
-- Semantic search
-- Query routing
-- Metadata filtering
-- Similarity scoring
-- Grounded response generation
-- RAG evaluation
+## Technical focus
 
-🔗 [View Project](https://github.com/ajmal335/Product_RAG_Assistant)
+- **AI development:** Python, PyTorch, TensorFlow/Keras, scikit-learn, Hugging Face Transformers.
+- **NLP and retrieval:** DistilBERT, text generation, embeddings, FAISS, RAG, model evaluation.
+- **Computer vision:** CNNs, ResNet transfer learning, YOLO detection, U-Net segmentation.
+- **Data and tooling:** SQL, pandas, NumPy, Git, Streamlit; FastAPI and automated testing in recent portfolio work.
+- **AI data quality:** CVAT, Roboflow, VIA, OCR validation, bounding boxes, polygons, keypoints, video annotation.
 
----
+## Professional background
 
-## 📝 NLP Sentiment Analysis
+- **CNTXT AI — AI Data Annotator:** egocentric video/VLA annotation and dataset quality for embodied-AI training.
+- **EyeTally.AI — Video Annotation Specialist:** frame-by-frame retail video annotation using CVAT.
+- **Machine Learning 1 — Data Annotator & Data Analyst:** image/text annotation, OCR validation, and data-processing workflows.
 
-**End-to-end sentiment classification system using DistilBERT and PyTorch.**
+My engineering projects are portfolio work; the roles above describe my professional AI data experience.
 
-**Technologies:**
-DistilBERT · Hugging Face · PyTorch · IMDb Dataset · Streamlit
+## Education and certifications
 
-**Key features:**
-- Transformer-based text classification
-- Model fine-tuning
-- GPU training
-- Evaluation metrics
-- Confusion matrix analysis
-- Interactive sentiment prediction
+**BS Physics**, Government College University Faisalabad, 2016–2020.
 
-🔗 [View Project](https://github.com/ajmal335/NLP_Sentiment_Analysis)
+- Microsoft Certified: Azure AI Fundamentals
+- AI Evaluation Specialist — micro1
 
----
+## Current development goals
 
-## ✍️ LLM Text Generation
-
-**Text generation application using DistilGPT2 and Hugging Face Transformers.**
-
-**Technologies:**
-DistilGPT2 · Hugging Face · PyTorch · Streamlit
-
-**Key features:**
-- Temperature control
-- Top-K sampling
-- Top-P sampling
-- Maximum token control
-- Interactive text generation
-
-🔗 [View Project](https://github.com/ajmal335/LLM_Text_Generation)
-
----
-
-## 👁️ Computer Vision — ResNet Transfer Learning
-
-**Image classification project using PyTorch and ResNet18 transfer learning.**
-
-**Technologies:**
-PyTorch · ResNet18 · Transfer Learning · Computer Vision
-
-🔗 [View Project](https://github.com/ajmal335/Professional_Image_Classification)
-
----
-
-## 🚀 Other AI/ML Projects
-
-- 🤖 YOLO-based Object Detection
-- 🧠 Artificial Neural Networks
-- 🖼️ CNN Image Classification
-- 📊 Machine Learning Regression
-- 🎯 Machine Learning Classification
-- 🔵 KMeans Clustering
-- 🔬 Computer Vision and Deep Learning experiments
-
----
-
-## 📚 Certifications
-
-🏆 **Microsoft Certified: Azure AI Fundamentals**
-
-🏆 **AI Evaluation Specialist — micro1**
-
----
-
-## 💼 Professional Experience
-
-### AI Data Annotator — CNTXT AI
-
-Working on AI training data involving egocentric video annotation, computer vision annotation, dataset quality, and AI model evaluation for embodied-AI applications.
-
-### Video Annotation Specialist — EyeTally.AI
-
-Performed frame-by-frame computer vision annotation using CVAT for AI-powered visual inventory systems.
-
-### Data Annotator & Data Analyst — Machine Learning 1 Limited
-
-Worked with large-scale image and text datasets, OCR processing, dataset validation, ML pipeline outputs, Python automation, and exploratory data analysis.
-
----
-
-## 🎯 Current Focus
-
-I’m currently focused on advancing my skills in:
-
-- 🤖 AI Agents
-- 🔗 LLM Applications
-- ⚡ FastAPI & AI Application Deployment
-- 🐳 Docker
-- ☁️ Cloud AI Deployment
-- 🔄 MLOps
-- 🧠 Production-oriented AI Engineering
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: [linkedin.com/in/m-ajmal-noor](https://linkedin.com/in/m-ajmal-noor)
-- 📧 Email: [ajmalnoor3355@gmail.com](mailto:ajmalnoor3355@gmail.com)
-
----
-
-## 🌍 Open to Opportunities
-
-I’m interested in opportunities involving:
-
-- Junior AI Engineering
-- AI/ML Engineering
-- Generative AI
-- LLM Applications
-- NLP
-- Computer Vision
-- Machine Learning
-- AI Model Evaluation
-
-📍 Pakistan | 🌍 Open to Remote Opportunities Worldwide
-
----
-
-⭐ **Always learning, building, and improving.**
+Deepen API development, evaluation, deployment, and AI-agent skills while contributing to a team as a junior engineer. Selected engineering additions in this portfolio were developed with AI assistance; project notes distinguish tested behavior from future work.
